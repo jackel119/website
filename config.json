@@ -2,7 +2,8 @@
   "plugins": [
     "./node_modules/wintersmith-stylus/plugin.coffee",
     "./node_modules/wintersmith-livereload/",
-    "./plugins/StaticPlugin"
+    "./plugins/StaticPlugin",
+    "./plugins/redirect"
   ],
   "require": {
     "_": "underscore",
@@ -42,5 +43,23 @@
     ],
     "archiveUrl": "/archive/",
     "committee": ["James Long", "Paul Balaji", "Luke Granger-Brown", "Tom Bower", "James Prince", "Alessandro Bonardi", "Sarah Baka", "Karim Nahas", "Maurice Yap", "Paul Lietar", "Rachel Mekhtieva Lee", "Levente Kurusa", "Amin Karamlou", "Tencho Tenev", "Nikolay Yotov"]
+  },
+  "redirects": {
+    "join": {
+      "title": "Join DoCSoc",
+      "target": "https://www.imperialcollegeunion.org/activities/a-to-z/605"
+    },
+    "phishing": {
+      "title": "Netcraft: Phishing for Fun and Profit",
+      "target": "https://www.facebook.com/events/727056880778601/"
+    },
+    "cisco-iot": {
+      "title": "Cisco Internet of Things Talk",
+      "target": "https://www.facebook.com/events/215438442201436/"
+    },
+    "ops": {
+      "title": "DoCSoc Operations",
+      "target": "https://www.facebook.com/groups/1509850436007222/"
+    }
   }
 }
