@@ -7,11 +7,14 @@ Install [node.js](http://nodejs.org), clone this repo and run
 
 Then open [http://localhost:8080](http://localhost:8080) 
 
-# Posts
+# How do i add ?
+## A new sponsor
+Add a new entry in [`sponsors.json`](contents/data/sponsors.json). 
 
-## Writing blog posts:
+## A new redirection
+Add a new entry in [`config.json`](config.json).
 
-### Syntax
+## A new post
 
 Posts should be written in [Markdown](http://daringfireball.net/projects/markdown/syntax).
 
@@ -23,7 +26,7 @@ They're parsed with [marked](https://github.com/chjj/marked)
 - Create a file index.md in that folder
 - Add any images etc in that folder too
 
-See existing posts for examples, like [this one](https://github.com/icdocsoc/website/blob/master/contents/articles/2013-11-19-amazon-office-visit)
+See existing posts for examples, like [this one](contents/articles/2013-11-19-amazon-office-visit)
 
 ### Post contents:
 
@@ -37,21 +40,20 @@ See existing posts for examples, like [this one](https://github.com/icdocsoc/web
       template: article.jade                  # In general, don't change
       ---
       ```
+
 - Ensure you have an "author" record.
     - In `contents/_authors` add a file `My Name.json`
-    - Inside the file, add your name, a URL to a photo (gravatars are good) and a URL to your personal site (optional). For an example, see [Pete Hamilton's author file](https://github.com/icdocsoc/website/blob/master/contents/_authors/Peter%20Hamilton.json)
-
-## Adding Images
-
-### Inserting images in posts
-
-- Add images in the post's folder.
-- Insert into post like you would in normal markdown. Relative to the index.md file
+    - Inside the file, add your name, a URL to a photo (gravatars are good) and a URL to your personal site (optional).
+      For an example, see [Pete Hamilton's author file](contents/_authors/Pete%20Hamilton.json)
 
 ## Deployment
 
-If you have permission to write to the [icdocsoc.github.io](https://github.com/icdocsoc/icdocsoc.github.io) repo, you can deploy the current version of the site on your machine at any time with:
+Website is deployed automatically by [Travis](https://travis-ci.org/icdocsoc/website).
+
+If you have permission to write to the [icdocsoc.github.io](https://github.com/icdocsoc/icdocsoc.github.io) repo,
+you can deploy website from your machine manually at any time with:
 
     make deploy
 
-Bear in mind for this, you'll also need [ImageMagick](http://www.imagemagick.org/) to be installed so it can resize images for the web. On mac this can be done with [HomeBrew](http://brew.sh/) and `brew install imagemagick`.
+Bear in mind for this, you'll also need [ImageMagick](http://www.imagemagick.org/) to be installed so it can resize images for the web.
+On mac this can be done with [HomeBrew](http://brew.sh/) and `brew install imagemagick`.
