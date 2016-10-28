@@ -1,9 +1,5 @@
 script: make
 deploy:
   provider: script
-  script: make deploy
+  script: .travis/deploy.sh
   skip_cleanup: true
-before_install:
-- openssl aes-256-cbc -K $encrypted_d1ccd9bf6ff3_key -iv $encrypted_d1ccd9bf6ff3_iv
-  -in .travis-deploy.key.enc -out .travis-deploy.key -d
-- mkdir -p $HOME/.ssh && mv .travis-deploy.key $HOME/.ssh/id_rsa && chmod 600 $HOME/.ssh/id_rsa
