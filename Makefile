@@ -2,7 +2,7 @@
 SYNC_DIRS=templates contents/authors contents/style contents/img contents/script
 CURRENT_BRANCH=$(shell git rev-parse --abbrev-ref HEAD)
 
-all: update sync build
+all: update build
 
 update:
 	npm install
@@ -33,4 +33,4 @@ clean:
 resize_images:
 	find ./contents -name "*.jpg" -o -name "*.png" | while read line ; do mogrify -verbose -resize '800x800>' "$$line" ; done
 
-.PHONY: update sync build preview clean resize_images
+.PHONY: update build preview clean resize_images
