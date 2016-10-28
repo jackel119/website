@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Palantir",
+    "url": "https://www.palantir.com",
+    "info": "Gold Bespoke Sponsor",
+    "logo": "/img/sponsors/palantir_logo.png"
+  },
+  {
+    "name": "Skyscanner",
+    "url": "https://www.skyscanner.net",
+    "info": "Gold Sponsor",
+    "logo": "/img/sponsors/skyscanner_logo.png"
+  },
+  {
+    "name": "GoCardless",
+    "url": "https://gocardless.com",
+    "info": "Gold Sponsor",
+    "logo": "/img/sponsors/go_cardless_logo.png"
+  },
+  {
+    "name": "Netcraft",
+    "url": "https://www.netcraft.com",
+    "info": "Gold Sponsor",
+    "logo": "/img/sponsors/netcraft_logo.png"
+  },
+  {
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com",
+    "info": "Gold Sponsor",
+    "logo": "/img/sponsors/bloomberg_logo.png"
+  },
+  {
+    "name": "NewVoiceMedia",
+    "url": "https://www.newvoicemedia.com",
+    "info": "Gold Sponsor",
+    "logo": "/img/sponsors/newvoicemedia_logo.png"
+  },
+  {
+    "name": "Cisco Systems, Inc",
+    "url": "https://www.cisco.com",
+    "info": "Silver Bespoke Sponsor",
+    "logo": "/img/sponsors/cisco_logo.png"
+  },
+  {
+    "name": "Entrepreneur First",
+    "url": "https://www.joinef.com",
+    "info": "Silver Sponsor",
+    "logo": "/img/sponsors/ef_logo.png"
+  },
+  {
+    "name": "Freelancer.com",
+    "url": "https://freelancer.com",
+    "info": "Silver Sponsor",
+    "logo": "/img/sponsors/freelancer_logo2.png"
+  },
+  {
+    "name": "Microsoft",
+    "url": "https://www.microsoft.com",
+    "info": "Silver Sponsor",
+    "logo": "/img/sponsors/microsoft_logo.png"
+  },
+  {
+    "name": "G-Research",
+    "url": "http://www.gresearch.co.uk",
+    "info": "Silver Sponsor",
+    "logo": "/img/sponsors/g_research_logo.png"
+  },
+  {
+    "name": "Jump Trading",
+    "url": "http://www.jumptrading.com",
+    "info": "Silver Sponsor",
+    "logo": "/img/sponsors/jump_trading_logo.png"
+  },
+  {
+    "name": "Bank of America Merrill Lynch",
+    "url": "https://www.bofaml.com",
+    "info": "Bronze Sponsor",
+    "logo": "/img/sponsors/baml_logo.png"
+  },
+  {
+    "name": "BlackRock",
+    "url": "https://www.blackrock.com/",
+    "info": "Bronze Sponsor",
+    "logo": "/img/sponsors/blackrock_logo.png"
+  }
+]
