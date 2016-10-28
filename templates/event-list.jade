@@ -6,7 +6,7 @@ block event-list
   //- -     item.indexUrl = item.url.replace('/events/', '');
   -   return _.extend(item, _.pick(item.metadata, 'location', 'page', 'signup'))
   - }).filter(function (item) {
-  -   return moment().subtract("days", 1) < item.date;
+  -   return moment().subtract(1, "days") < item.date;
   - }).sortBy(function (item) {
   -   return item.date;
   - }).value()
