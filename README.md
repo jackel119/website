@@ -14,6 +14,24 @@ Add a new entry in [`sponsors.json`](contents/data/sponsors.json).
 ## A new redirection
 Add a new entry in [`config.json`](config.json).
 
+## A new event
+- Create a new folder in [`contents/events`](contents/events), with the name `YYYY-MM-IDENTIFIER`.
+- Create a file `index.md` in that folder, and add a banner image to the folder
+- Add metadata and a short description to `index.md`, based on the following example :
+```
+---
+title: "Phishing for Fun & Profit"
+date: 2016-11-01 18:00
+location: RSM G01
+image: banner.jpg
+sponsor_logo: /img/sponsors/netcraft_logo.png
+url: https://www.facebook.com/events/727056880778601/
+---
+Short description comes here.
+
+This is only used to display outside of labs, so limit it to 2-3 sentences
+```
+
 ## A new post
 
 Posts should be written in [Markdown](http://daringfireball.net/projects/markdown/syntax).

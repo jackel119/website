@@ -4,7 +4,8 @@
     "./node_modules/wintersmith-livereload/",
     "./plugins/StaticPlugin",
     "./plugins/redirect",
-    "./plugins/getChronologicalList"
+    "./plugins/getChronologicalList",
+    "./plugins/resolveLink"
   ],
   "require": {
     "_": "underscore",
@@ -44,7 +45,6 @@
       }
     ],
     "archiveUrl": "/archive/",
-    "events": "/nextevent/",
     "committee": ["James Long", "Paul Balaji", "Luke Granger-Brown", "Tom Bower", "James Prince", "Alessandro Bonardi", "Sarah Baka", "Karim Nahas", "Maurice Yap", "Paul Lietar", "Rachel Mekhtieva Lee", "Levente Kurusa", "Amin Karamlou", "Tencho Tenev", "Nikolay Yotov"]
   },
   "redirects": {
