@@ -1,7 +1,7 @@
 include author
-include article-list
 
 mixin recent_posts
+  - var articles = env.helpers.getChronologicalList(contents, 'articles', true)
   - var number = _(articles).first(5)
   each article in number
     article.recent-article

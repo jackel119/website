@@ -2,7 +2,7 @@ extends layout
 
 block content
   include author
-  include article-list
+  - var articles = env.helpers.getChronologicalList(contents, 'articles', true)
   - var number = _(articles).first(locals.index_articles)
   each article in number
     article.post

@@ -9,7 +9,7 @@ block content
 
       h1 Archive
 
-      include article-list
+      - var articles = env.helpers.getChronologicalList(contents, 'articles', true)
       //- print out list of articles
       table.archive__table
         thead
