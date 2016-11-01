@@ -103,3 +103,41 @@
     border-right: none;
   }
 }
+
+.event-list {
+  border-radius: 6px;
+  box-shadow: 0px 1px 4px rgba(0,0,0,0.2);
+}
+
+.upcoming-event a {
+  display: flex;
+  align-items: center;
+
+  .event-sponsor-logo {
+    height: 25px;
+    margin-left: 10px;
+    margin-right: 20px;
+  }
+
+  h3 {
+    margin-top: 15px;
+    margin-bottom: 0;
+  }
+
+  p {
+    margin-top: 0;
+  }
+}
+
+.upcoming-event + .upcoming-event {
+  border-top: 1px solid rgba(0,0,0,0.3);
+}
+
+.upcoming-event:hover {
+  box-shadow: 4px 4px 4px rgba(0,0,0,0.2);
+}
+
+#event-banner {
+  border-radius: 6px 6px 0 0;
+}
+

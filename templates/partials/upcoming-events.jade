@@ -1,0 +1,18 @@
+// Get all events in the future (or still going on, ie started < 1 hour agao)
+- var events = env.helpers.getChronologicalList(contents, 'events').filter(function(event) {
+-   return moment(event.date) - moment() > -3600 * 1000
+- })
+
+- var defaultImage = env.helpers.resolveLink(events[0], events[0].metadata.image)
+
+// Event banner hidden for now
+// img(src=defaultImage)#event-banner
+div(onmouseleave='document.getElementById("event-banner").src="#{defaultImage}"')
+  each event in events
+    - var imagePath = env.helpers.resolveLink(event, event.metadata.image)
+    .upcoming-event(onmouseover='document.getElementById("event-banner").src="#{imagePath}"')
+      a(href=event.metadata.url)
+        img(src=event.metadata.sponsor_logo).event-sponsor-logo
+        div
+          h3= event.title
+          p #{moment(event.date).format('dddd Do MMMM h:mma')} &mdash; #{event.metadata.location}
