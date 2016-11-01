@@ -6,7 +6,7 @@
 - var defaultImage = env.helpers.resolveLink(events[0], events[0].metadata.image)
 
 // Event banner hidden for now
-// img(src=defaultImage)#event-banner
+img(src=defaultImage)#event-banner
 div(onmouseleave='document.getElementById("event-banner").src="#{defaultImage}"')
   each event in events
     - var imagePath = env.helpers.resolveLink(event, event.metadata.image)
