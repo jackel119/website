@@ -40,7 +40,7 @@ block post
             = locals.name
 
     // Find the first event in the future (or still going on, ie started < 1 hour agao)
-    - var event = env.helpers.getChronologicalList(contents, 'events').find(function(event) {
+    - var event = _.find(env.helpers.getChronologicalList(contents, 'events'), function(event) {
     -   return moment(event.date) - moment() > -3600 * 1000
     - })
 
