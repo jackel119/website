@@ -50,9 +50,8 @@ block post
 
   h2 Our Sponsors
   .our-sponsors
-    each sponsor_row in lodash.chunk(contents.data['sponsors.json'].metadata, 3)
-      .sponsor-image-row
-        each sponsor in sponsor_row
-          a(href=sponsor.url)
-            img(src=sponsor.logo
-                title=sponsor.name).sponsor-image
+    each sponsor in contents.data['sponsors.json'].metadata
+      .sponsor
+        a(href=sponsor.url)
+          img(src=sponsor.logo
+              title=sponsor.name).sponsor-image
