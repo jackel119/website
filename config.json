@@ -24,14 +24,9 @@
     "index_articles": 3,
     "menu": [
       {
-        "name": "About",
+        "name": "What's On?",
         "description": "",
-        "url": "/about/"
-      },
-      {
-        "name": "Blog",
-        "description": "",
-        "url": "/blog/"
+        "url": "/"
       },
       {
         "name": "Sponsors",
@@ -39,9 +34,14 @@
         "url": "/sponsors/"
       },
       {
-        "name": "What's On?",
+        "name": "Blog",
         "description": "",
-        "url": "/"
+        "url": "/blog/"
+      },
+      {
+        "name": "About",
+        "description": "",
+        "url": "/about/"
       }
     ],
     "archiveUrl": "/archive/",

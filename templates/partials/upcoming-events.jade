@@ -15,4 +15,5 @@ div(onmouseleave='document.getElementById("event-banner").src="#{defaultImage}"'
         img(src=event.metadata.sponsor_logo).event-sponsor-logo
         div
           h3= event.title
-          p #{moment(event.date).format('dddd Do MMMM h:mma')} &mdash; #{event.metadata.location}
+          p= moment(event.date).format('dddd Do MMMM h:mma')
+          p= event.metadata.location
