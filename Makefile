@@ -9,7 +9,6 @@ update:
 	npm update
 
 build:
-	rm -rf ./build && \
 	node ./node_modules/wintersmith/bin/wintersmith build && \
 	cd ./build && \
 	find ./articles -name "*.jpg" -o -name "*.png" | while read line ; do mogrify -verbose -resize '800x800>' -quality 80 "$$line" ; done
