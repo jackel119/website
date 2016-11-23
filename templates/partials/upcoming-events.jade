@@ -3,17 +3,19 @@
 -   return moment(event.date) - moment() > -3600 * 1000
 - })
 
-- var defaultImage = env.helpers.resolveLink(events[0], events[0].metadata.image)
 
-// Event banner hidden for now
-img(src=defaultImage)#event-banner
-div(onmouseleave='document.getElementById("event-banner").src="#{defaultImage}"')
-  each event in events
-    - var imagePath = env.helpers.resolveLink(event, event.metadata.image)
-    .upcoming-event(onmouseover='document.getElementById("event-banner").src="#{imagePath}"')
-      a(href=event.metadata.url)
-        img(src=event.metadata.sponsor_logo).event-sponsor-logo
-        div
-          h3= event.title
-          p= moment(event.date).format('dddd Do MMMM h:mma')
-          p= event.metadata.location
+if events.length > 0
+  - var defaultImage = env.helpers.resolveLink(events[0], events[0].metadata.image)
+  h2 Upcoming Events
+    .event-list
+      img(src=defaultImage)#event-banner
+      div(onmouseleave='document.getElementById("event-banner").src="#{defaultImage}"')
+        each event in events
+          - var imagePath = env.helpers.resolveLink(event, event.metadata.image)
+          .upcoming-event(onmouseover='document.getElementById("event-banner").src="#{imagePath}"')
+            a(href=event.metadata.url)
+              img(src=event.metadata.sponsor_logo).event-sponsor-logo
+              div
+                h3= event.title
+                p= moment(event.date).format('dddd Do MMMM h:mma')
+                p= event.metadata.location

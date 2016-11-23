@@ -35,15 +35,15 @@ style.
 
 
 block post
-    title
-        block title
-            = locals.name
+  title
+    block title
+      = locals.name
 
-    // Find the first event in the future (or still going on, ie started < 1 hour agao)
-    - var event = _.find(env.helpers.getChronologicalList(contents, 'events'), function(event) {
-    -   return moment(event.date) - moment() > -3600 * 1000
-    - })
-
+  // Find the first event in the future (or still going on, ie started < 1 hour agao)
+  - var event = _.find(env.helpers.getChronologicalList(contents, 'events'), function(event) {
+  -   return moment(event.date) - moment() > -3600 * 1000
+  - })
+  if (typeof event !== "undefined")
     - var imagePath = env.helpers.resolveLink(event, event.metadata.image)
 
     h1 YOUR NEXT DOCSOC EVENT IS:
@@ -51,3 +51,5 @@ block post
     h2 #{moment(event.date).format('dddd Do MMMM h:mma')} #{event.metadata.location}
     img(src=imagePath)
     != event.html
+  else
+    h1 NO DOCSOC EVENT PLANNED YET
