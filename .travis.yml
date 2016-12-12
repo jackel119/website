@@ -1,4 +1,4 @@
-script: make
+script: make update test
 deploy:
   provider: script
   script: ./.travis/deploy.sh
