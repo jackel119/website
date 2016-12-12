@@ -23,9 +23,10 @@ deploy: build
 	git -C build fetch "git@github.com:icdocsoc/icdocsoc.github.io.git" master
 	git -C build reset --soft FETCH_HEAD
 	git -C build add .
-	git -C build status --porcelain && \
+	if git -C build status --porcelain; then
 	  git -C build commit -m "Deploy icdocsoc/website@${HEAD_REV}" && \
-	  git -C build push "git@github.com:icdocsoc/icdocsoc.github.io.git" master:master
+	  git -C build push "git@github.com:icdocsoc/icdocsoc.github.io.git" master:master ; \
+	fi
 	cd ..
 
 clean:
