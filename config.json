@@ -12,9 +12,6 @@
     "lodash": "lodash",
     "moment": "moment"
   },
-  "ignore": [
-    "**/.DS_Store"
-  ],
   "output": "build",
   "locals": {
     "url": "http://www.docsoc.co.uk",
