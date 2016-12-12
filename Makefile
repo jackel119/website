@@ -25,7 +25,7 @@ deploy: build
 	git -C build add .
 	git -C build status --porcelain && \
 	  git -C build commit -m "Deploy icdocsoc/website@${HEAD_REV}" && \
-	  git -C build push "git@github.com:icdocsoc/icdocsoc.github.io.git" master:master --force
+	  git -C build push "git@github.com:icdocsoc/icdocsoc.github.io.git" master:master
 	cd ..
 
 clean:
