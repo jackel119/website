@@ -9,7 +9,7 @@
     "moment": "2.17.1",
     "stylus": "0.54.5",
     "underscore": "1.8.3",
-    "wintersmith": "2.3.3",
+    "wintersmith": "2.3.6",
     "wintersmith-livereload": "0.2.2",
     "wintersmith-stylus": "0.5.1"
   }
