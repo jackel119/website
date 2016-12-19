@@ -5,7 +5,7 @@ date: 2016-12-19 18:00
 template: article.jade
 ---
 
-Well, well, well...what a term! DoCSoc has grown from its humble beginnings just a few years ago into one of the largest and most prominent societies at Imperial and even the UK! In fact, this term was our busiest and most active of all time with almost twenty amazing events in just ten weeks. 
+Well, well, well...what a term! DoCSoc has grown from its humble beginnings just a few years ago into one of the largest and most prominent societies at Imperial and even the UK! In fact, this term was our busiest and most active of all time with twenty amazing events in just ten weeks. 
 
 So as we all take a well deserved rest from coursework and revision before the Spring term, let’s take a look at what we got up to this term…
 
@@ -106,6 +106,6 @@ After Palantir’s workshop event, we all walked over to Metric for a generously
 
 Believe it or not, we're still not done! But, that’s it for part one.
 
-Check back soon to find out more about what we got up to in the second half of the term!
+*To find out what we did in the second half of term, head over to [Part Two](/articles/2016-12-20-autumn-part-two/)!*
 
 *Tom*
