@@ -1,8 +1,8 @@
 {
-  "name": "blog.mnewton.com",
-  "version": "0.3.0",
-  "author": "Matthew Sojourner Newton <contact@mnewton.com>",
-  "description": "Personal website",
+  "name": "docsoc.co.uk",
+  "version": "0.1.0",
+  "author": "DoCSoc <docsoc@imperial.ac.uk>",
+  "description": "DoCSoc Website",
   "license": "MIT",
   "dependencies": {
     "lodash": "4.17.2",
