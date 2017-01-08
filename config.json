@@ -67,6 +67,10 @@
     "webdev": {
       "title": "DoCSoc Web Development Course",
       "target": "https://www.facebook.com/groups/1770637513199253"
+    },
+    "ichacktix": {
+      "title": "IC Hack '17 tickets",
+      "target": "https://ichack17.eventbrite.co.uk"
     }
   }
 }
