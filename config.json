@@ -71,6 +71,10 @@
     "ichacktix": {
       "title": "IC Hack '17 tickets",
       "target": "https://ichack17.eventbrite.co.uk"
+    },
+    "uroptalkfb": {
+      "title": "UROP Talk Facebook page",
+      "target": "https://www.facebook.com/events/1638899633079607"
     }
   }
 }
