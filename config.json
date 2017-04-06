@@ -17,7 +17,7 @@
   ],
   "output": "build",
   "locals": {
-    "url": "http://www.docsoc.co.uk",
+    "url": "https://www.docsoc.co.uk",
     "name": "DoCSoc | Imperial's Computing Society",
     "owner": "Imperial DoCSoc",
     "description": "Imperial College London, Department of Computing Society, &c",
