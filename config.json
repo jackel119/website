@@ -56,10 +56,6 @@
       "title": "Conference Subsidy Application",
       "target": "https://docs.google.com/forms/d/1kFIrH_O2qpegWVX45-4SV5BGza9sOD9abZBVenfT0Iw"
     },
-    "eventssurvey": {
-      "title": "Autumn 2016 Events Survey",
-      "target": "https://www.doc.ic.ac.uk/~mly15/docsoceventssurvey.html"
-    },
     "ops": {
       "title": "DoCSoc Operations",
       "target": "https://www.facebook.com/groups/1509850436007222/"
@@ -68,29 +64,17 @@
       "title": "DoCSoc Web Development Course",
       "target": "https://www.facebook.com/groups/1770637513199253"
     },
-    "ichacktix": {
-      "title": "IC Hack '17 tickets",
-      "target": "https://ichack17.eventbrite.co.uk"
-    },
-    "uroptalkfb": {
-      "title": "UROP Talk Facebook page",
-      "target": "https://www.facebook.com/events/1638899633079607"
-    },
     "hoodies": {
       "title": "DoCSoc Hoodies",
       "target": "https://www.imperialcollegeunion.org/shop/club-society-project-products/computing-products/16640/docsoc-hoodie"
     },
-    "nextjump": {
-      "title": "Next Jump Interview Submission",
-      "target": "https://script.google.com/macros/s/AKfycbxo0s5Pmh28nwHrxgBQ3nBhxzw_iPo4fO8iiZ6CrjaUR0BColM/exec"
-    },
-    "survey": {
-      "title": "End of Year Survey",
-      "target": "https://docs.google.com/forms/d/e/1FAIpQLScy-Ej8RyrsrleOsT09oE0wCm_xT9Vq3ddQOem6pCGciEKMSQ/viewform?usp=sf_link"
-    },
     "efstudentpartner": {
       "title": "Entrepreneur First Student Partner",
       "target": "https://boards.greenhouse.io/workforef/jobs/599587#.WOdlUBLyufS"
+    },
+    "dinner": {
+      "title": "DoCSoc End Of Year Dinner 2017",
+      "target": "https://www.facebook.com/events/2241160536109743/"
     }
   }
 }
