@@ -66,12 +66,6 @@ See existing posts for examples, like [this one](contents/articles/2013-11-19-am
 
 ## Deployment
 
-Website is deployed automatically by [Travis](https://travis-ci.org/icdocsoc/website).
+Website is deployed automatically by Netlify.
 
-If you have permission to write to the [icdocsoc.github.io](https://github.com/icdocsoc/icdocsoc.github.io) repo,
-you can deploy website from your machine manually at any time with:
-
-    make deploy
-
-Bear in mind for this, you'll also need [ImageMagick](http://www.imagemagick.org/) to be installed so it can resize images for the web.
-On mac this can be done with [HomeBrew](http://brew.sh/) and `brew install imagemagick`.
+Pushing to the GitHub repository will take care of deployment automagically.

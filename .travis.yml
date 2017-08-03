@@ -1,8 +1,0 @@
-script: make update test
-deploy:
-  provider: script
-  script: ./.travis/deploy.sh
-  skip_cleanup: true
-cache:
-  directories:
-    - node_modules
