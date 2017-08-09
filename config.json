@@ -45,7 +45,12 @@
       }
     ],
     "archiveUrl": "/archive/",
-    "committee": ["James Long", "Paul Balaji", "Luke Granger-Brown", "Tom Bower", "Maurice Yap", "James Prince", "Alessandro Bonardi", "Paul Lietar", "Rachel Mekhtieva Lee", "Levente Kurusa", "Amin Karamlou", "Tencho Tenev", "Nikolay Yotov"]
+    "committee": [
+      "Maurice Yap", "Tom Bower", "Levente Kurusa", "Nik Vangerow",
+      "Rachel Mekhtieva Lee", "Yoon Kim", "Diana Avram", "Alessandro Bonardi",
+      "Jack Pordi", "Rohan Pritchard", "Inara Ramji", "Elliot Greenwood",
+      "Uno Perwironegoro"
+    ]
   },
   "redirects": {
     "join": {
