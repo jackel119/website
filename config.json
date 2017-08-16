@@ -20,7 +20,8 @@
     "url": "https://www.docsoc.co.uk",
     "name": "DoCSoc | Imperial's Computing Society",
     "owner": "Imperial DoCSoc",
-    "description": "Imperial College London, Department of Computing Society, &c",
+    "description": "Imperial College London, Department of Computing Society",
+    "image": "https://docsoc.co.uk/img/social-docsoc-logo.png",
     "index_articles": 3,
     "menu": [
       {
