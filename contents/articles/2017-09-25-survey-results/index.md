@@ -28,33 +28,33 @@ On a more serious note, we'll continue to work hard to bring you a large range o
 ### Bar Nights
 _Bar Nights_ were by far the most popular events - with over 80 responses mentioning either a specific bar night or all of them collectively. This was a *shocking* revelation to us as we would never have expected that large quantities of free alcohol could be so incredibly popular amongst university students. We're glad that DoCSoc's bar nights have gained the popularity and legendary reputation that they have; in fact the College Union has now asked us to switch our venue to Metric due to the large volumes of attendees.
 
-_"Bevs"_
+>Bevs
 
-_"Good chance to meet new people from the course and from other years_
+>Good chance to meet new people from the course and from other years
 
-_A chance to sit down with friends that I otherwise only see in lectures_
+>A chance to sit down with friends that I otherwise only see in lectures
 
 At the same, Bar Nights were _also_ the most disliked, with over 30 people putting them down as their least favourite event:
 
-_Im not that interested in drinking._
+>Im not that interested in drinking.
 
-_Boring as most club and societies do this already_
+>Boring as most club and societies do this already
 
-_Union bar is too overcrowded and the service is incredibly slow_
+>Union bar is too overcrowded and the service is incredibly slow
 
-_Too many dudes_
+>Too many dudes
 
-_bar nights and alcohol arent really my thing!_
+>bar nights and alcohol arent really my thing!
 
-_I don't drink_
+>I don't drink
 
-_dont like going to pubs_
+>dont like going to pubs
 
 That said, some of the "Least favourite" reasons were:
 
-_Had too much to drink :(_
+>Had too much to drink :(
 
-_I died (was lit otherwise)_
+>I died (was lit otherwise)
 
 It's no surprise that the Bar Nights are the most controversial events. After all, we're a very diverse community of people ranging from raging alcoholics to complete teetolers.
 The serious criticisms of the Bar Nights fall into one of two categories: either the lack of interest in drinking, or the venue being too busy. After much debate, we've come to the consensus that the frequency of bar nights are in a good spot right now, and we will keep the number of bar nights for this upcoming year the same as last year.
@@ -64,29 +64,29 @@ This doesn't mean that we're not listening to the non-drinkers; we believe we ca
 ### Revel
 **Revel** AKA **Cirque le Revel** AKA **Revel 2.0** was also another controversial event. This was our second year running Revel, and after the massive success and positive feedback we had from last year's Rooftop Revel, we had *a lot* to live up to.
 
-_Unlimited booze and cool venue_
+>Unlimited booze and cool venue
 
-_Variety, different to any night I've ever been on_
+>Variety, different to any night I've ever been on
 
-_Entertainment was great_
+>Entertainment was great
 
-_A lot of people and a lot of fun_
+>A lot of people and a lot of fun
 
-_MAGNIFICENT_
+>MAGNIFICENT
 
-_Well it was bloody brilliant. The location..._
+>Well it was bloody brilliant. The location...
 
-_It didn't seem worth the money and it ended early_
+>It didn't seem worth the money and it ended early
 
-_In comparison to the Rooftop from the year before it fell kind of short. It was too packed and the show acts were kind of embarrassing to watch._
+>In comparison to the Rooftop from the year before it fell kind of short. It was too packed and the show acts were kind of embarrassing to watch.
 
-_Quite expensive, venue wasn't big enough for everyone and they ran out of wine and water quite early on_
+>Quite expensive, venue wasn't big enough for everyone and they ran out of wine and water quite early on
 
-_It was not what I was expecting. The tickets were expensive and it overall wasn't worth the money._
+>It was not what I was expecting. The tickets were expensive and it overall wasn't worth the money.
 
-_Bit overhyped, I think we could have done better for the price (compared with the last year's rooftop revel which was awesome)._
+>Bit overhyped, I think we could have done better for the price (compared with the last year's rooftop revel which was awesome).
 
-_Was too weird_
+>Was too weird
 
 A lot of the feedback we received was very similar to that of the bar nights, and we do agree that generally non-drinkers did not enjoy the event as much, and many drinkers also were very critical of the venue being too loud, too small and having no "quiet area" like Rooftop Revel did. The main reason we didn't go with the Roof Gardens again this year was that they lost their license, hence we had to find an alternative. This year, though we haven't started formal planning on Revel yet, the committee is considering going back to the Roof Gardens (as they have regained their license).
 
@@ -96,53 +96,53 @@ Something else we're also taking in mind is the subsidy amount and availability 
 **ICHack** was by far the most expensive event we ran this year and took months of preparation from the committe, and it's great to see that our hard work has been appreciated with the hackathon being voted to 2nd place.
 Our ambitions were very high this year, going from a measly 150 attendees in the previous ICHack to a staggering 335, so we're _really_ happy that you guys enjoyed it as much as you did, as the committee and organizers almost died running it.
 
-_It was organised extremely well and was really fun_
+>It was organised extremely well and was really fun
 
-_Really huge event. Free food. Great prizes. Great sponsors and establish career connections._
+>Really huge event. Free food. Great prizes. Great sponsors and establish career connections.
 
-_Because Pizza. Also first Hackathon so a really cool experience. The sponsors were also super nice!_
+>Because Pizza. Also first Hackathon so a really cool experience. The sponsors were also super nice!
 
-_Most exciting of all the events, I had a great time and learnt a lot as well_
+>Most exciting of all the events, I had a great time and learnt a lot as well
 
-_God organization_
+>God organization
 
-_Lit af_
+>Lit af
 
 Thanks guys <3
 We also received very few responses where ICHack was down as least favourite event, so I can go through them all individually here:
 
-_Too many people_
+>Too many people
 
 Well, we wanted to give as many people as we can the opportunity to participate. We're sorry if you feel like this compromised your enjoyment of the event. If you want to give us more details, drop us an email at <docsoc@imperial.ac.uk>.
 
- _I didn't like that it was held at uni, made me feel like I was just spending a weekend in the place I want to get  away from. Also I didn't like any of the meals...except dominoes_
+>I didn't like that it was held at uni, made me feel like I was just spending a weekend in the place I want to get  away from. Also I didn't like any of the meals...except dominoes
 
 Tieing in with the above point, the only venue we could get that would allow us to host such a large amount of people, and not cost every committee member their kidneys, was on College Campus. With regards to the meal, we weren't allowed to use external catering this year, but we're hoping to change that next year, so hopefully food should be much improved.
 
 ### Sponsored Talks and Workshops
 Our **Sponsored Talks and Workshops** were also overall well received. In particular, the **Palantir Startup** and **Netcraft Phishing for Fun and Profit** seemed to be particularly well-liked.
 
-_Really interactive_
+>Really interactive
 
-_Fun and mostly accessible_
+>Fun and mostly accessible
 
-_An interesting coding challenge_
+>An interesting coding challenge
 
-_The talk was very interactive and very interesting_
+>The talk was very interactive and very interesting
 
-_Nice and short workshop_
+>Nice and short workshop
 
-_Fun workshop with an insight into their company, free food + bar night was cool as well_
+>Fun workshop with an insight into their company, free food + bar night was cool as well
 
 And amongst the criticisms we had:
 
-_Too much set-up for the workshop, task seemed very long and wasn't particularly engaging_
+>Too much set-up for the workshop, task seemed very long and wasn't particularly engaging
 
-_Config files are boring_
+>Config files are boring
 
-_Speaker was not very good - more of an advertisement than a technical/academic talk_
+>Speaker was not very good - more of an advertisement than a technical/academic talk
 
-_I fell behind and was unable to catch up due to the format of the presentation. It seemed like others had similar issues with falling behind. I still gained something from it but it would have been nice if there was more information about how the systems worked rather than being so focused on configuring it quickly to get it working_
+>I fell behind and was unable to catch up due to the format of the presentation. It seemed like others had similar issues with falling behind. I still gained something from it but it would have been nice if there was more information about how the systems worked rather than being so focused on configuring it quickly to get it working
 
 This category of events is a difficult one for us to work on, as the events themselves are run by our sponsors. We're happy that overall people seemed to enjoy them, however we've also passed on feedback onto our sponsors in order for them to provide a better experience for our students during their workshops and talks this year.
 
@@ -175,17 +175,15 @@ Favourite Event: **_"Pub Crawl"_**
 
 ## Joint Society Events 
 
-Events with other societies are something that DoCSoc have never really pushed for before, but your responses indicate that there is significant interest in these:
+Events with other societies are something that DoCSoc have never really pushed for before, but your responses indicate that there is significant interest in these (with higher numbers representing high interest):
 
-![Alt Text](./JointSocEvents.png "I bet you all just want to meet girls")
+![Alt Text](./JointSocEvents.png "Hmmmph")
 
 Hence it goes without saying that we're going to look into this a lot more. That said, the reality is not so simple as merely hosting more events with other Socs just because we feel like it - with Joint-Soc Events come Joint-Soc problems.
 
 **Good events are not cheap**, and most other societies **do not have the money that we do**. For example, our Bar Nights are expensive. They range anywhere from £2000 to £4000, and if we were to invite another society along, this cost would likely double. The committee believes that it is not within our interests to use DoCSoc sponsorship funds on non-DoCSoc members, and so this would require either the other society to cover their share of the expenses, or their members to pay for a ticket. This essentially takes away a large proportion of the incentive for other society members to attend, considering that there are likely already many reasons members of other societies may not want to participate in co-society events i.e. clashing exam/coursework timetables during term-time.
 
 DoCSoc's reputation is amongst the largest of any society at Imperial, and because of this we also have concerns regarding other societies expecting us to carry them in any potential joint ventures. In the past, we have had a certain student organisation propose that we cover 70% of the expenses for the event, whilst only getting a third of the tickets.
-
-<!-- TODO: insert stuff about difficult to organize here -->
 
 The above issues don't mean we won'try, it just means that we'll be proceeding quite carefully in order to not waste DoCSoc $$$ and manpower.
 We will likely be trialling events with other societies with relatively inexpensive social events (so, not Bar Nights) and see how popular they are before becoming more ambitious.
@@ -194,42 +192,42 @@ We will likely be trialling events with other societies with relatively inexpens
 
 Many of the suggestions we've received have already been addressed somewhere above, but for those that didnt:
 
-_Being more transparent with what is going on, not just on the commitee, but with how each event went_
+>Being more transparent with what is going on, not just on the commitee, but with how each event went
 
 Well, I hope this whole report is a good start. We're looking to become more active with our blog this year, with content from anything ranging from post-event writeups to sponsorship news, so hopefully this answers your request.
 
-_More diversity for companies coming to engage the students (e.g. game developers, social media)_
+>More diversity for companies coming to engage the students (e.g. game developers, social media)
 
-Though we can't tell you who are sponsors this upcoming year are quite yet, we've contacted 239 companies with from various fields and backgrounds this year, so stay tuned&hellip;
+Well we do have THE social media company this year. Also, when we reach out to companies for sponsorship, we try to contact as many companis as we can from a diverse range of backgrounds. Whether they're interested enough in top-tier graduates from one of the best universities in the world to consider sponsorship is unfortunately out of our control, but we are quite happy with the diversity of our sponsors this year.
 
-_Get the hoodies and other clothing items out way sooner_
+>Get the hoodies and other clothing items out way sooner
 
 This was something we were thinking of as well. Especially with the next batch of freshers coming in soon, it does make sense to get them out a tad bit earlier.
 
-_Take more personal feedback not general forms_
+>Take more personal feedback not general forms
 
 Feel free to drop us an email at <docsoc@imperial.ac.uk>
 
-_Have more workshops such as the webdev one_
+>Have more workshops such as the webdev one
 
-Noted. We'll discuss this.
+Noted. We've got plans.
 
-_More food-based activities rather than alcohol-based_
+>More food-based activities rather than alcohol-based
 
 We hope you came to the BBQ! Now that we've bought ourselves a grill, doing more of these is definitely something we have in mind.
 
-_Organize more graduate student events_
+>Organize more graduate student events
 
 We believe most of our events are appropriate for both undergraduate and graduate students - but if you disagree with us, drop us an email and tell us why!
 
-_Laptop spots in labs with VGA/HDMI inputs and keyboard/mouse available_
+>Laptop spots in labs with VGA/HDMI inputs and keyboard/mouse available
 
 Forwarded to the Departmental Representatives.
 
-_More academia focused events_
+>More academia focused events
 
 Also something we're working on. Once again, stay tuned.
 
 ___
 
-That's all we wanted to say for now. In the coming weeks we'll also be letting you know of a few more changes and updates to DoCSoc this year, so stay tuned for that.
+That's all we wanted to say for now. We hope you've enjoyed your summer holidays, and good luck with the term!
